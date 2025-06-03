@@ -1,6 +1,6 @@
 # Automation Test API using Mocha & CHai
 
-Automation testing API using Mocha & Chai Framework
+Automation testing API using Mocha & Chai Framework, I use Petstore API from swagger.io to be sample API api 
 
 
 ## Requirement
@@ -53,3 +53,4 @@ report can be two type :
 
 ## Notes
 - this project use mac set up, this runner script will will work on Windows if you are using a terminal that supports Unix-style paths, such as Git Bash, PowerShell, or Windows Subsystem for Linux (WSL).
+- Swagger petstore api BASE_URL = https://petstore.swagger.io/v2
